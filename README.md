@@ -1,4 +1,4 @@
-# Part 2 Mini-Challenge
+# Bob's bulb bolt (game jam game)
 Fork this program to practice with sprite movement during Part 2 Step 2. 
 
 ## File Overview
